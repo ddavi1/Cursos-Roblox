@@ -3,6 +3,7 @@
 Lista organizada de playlists, vídeos e canais no YouTube para estudo de programação, desenvolvimento de jogos e idiomas.
 
 ---
+* Docs Roblox: https://create.roblox.com/docs/pt-br/experiences
 
 ## 🌙 Linguagem Lua
 
